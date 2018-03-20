@@ -1,4 +1,4 @@
-# Die wichtigsten GIt-Befehle
+# Die wichtigsten GIT-Befehle
 
 ## Einrichtung
 
@@ -20,4 +20,5 @@ git clone git@github.com:duracellpower/git-aufgaben.git
 
 ### git add
 
-Mit git 
+Mit 'git add' kannst du eine Änderung zum Index hinzufügen
+Mit 'git commit -m "blablabla"' kannst du die Änderungen bestätigen, sie sind nun im HEAD
