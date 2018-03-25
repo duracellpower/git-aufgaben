@@ -23,3 +23,13 @@ git clone git@github.com:duracellpower/git-aufgaben.git
 Mit `git add` kannst du eine Änderung zum Index hinzufügen
 Mit `git commit -m "blablabla"` kannst du die Änderungen hinzufügen, sie sind nun im HEAD
 
+### git push
+
+Mit 'git push origin master' hochladen
+
+### git pull
+
+Mit 'git pull' aktualisieren
+Mit 'git merge <branch> mit einem andern Branch zusammenführen
+  
+  
